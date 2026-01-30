@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.intellij.platform") version "2.10.2"
 }
 
-group = "com.example.terrorbelow"
+group = "com.leostrangman"
 version = "1.0.4"
 
 repositories {
